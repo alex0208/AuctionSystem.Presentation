@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "Auction System",
+    "packageVersion": "0.0.0",
+    "revealTheme": "night",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "alex0208",
+    "githubRepository": "AuctionSystem.Presentation"
+  }
+}
