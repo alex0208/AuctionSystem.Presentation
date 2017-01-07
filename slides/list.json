@@ -1,1 +1,10 @@
-["index.md"]
+[
+    "index.md",
+    "agenda.md",
+    [
+        "architecture.md",
+        "arch-image.md"
+    ],
+    "arch-api-image.md",
+    "arch-ng-image.md"
+]

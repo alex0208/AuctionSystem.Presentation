@@ -1,10 +1,9 @@
 
 # Auction System
 
-From the terminal, pop in:
+<br><br>
 
-  ```yo reveal:slide "Slide Title"```
-
-Available options:
-
- ```--markdown --attributes --notes```
+* Alexander Zahariev 
+* Arnas Sokolovas
+* Jindrich Jehlicka
+* Marius Constantin Untaru
