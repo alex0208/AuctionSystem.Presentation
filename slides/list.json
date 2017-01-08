@@ -8,12 +8,13 @@
         "arch-ng-image.md"
     ],
     [
-	    "webapi.md",
-	    "models.md",
-	    "ef.md",
-	    "controllers.md",
-	    "services.md",
-	    "ninject.md",
-	    "automapper.md"
-	]
+        "webapi.md",
+        "models.md",
+        "ef.md",
+    	"repo.md",
+        "controllers.md",
+        "services.md",
+        "ninject.md",
+        "automapper.md"
+    ]
 ]
