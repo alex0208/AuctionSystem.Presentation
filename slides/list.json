@@ -1,7 +1,6 @@
 [
     "index.md",
-    "agenda.md",
-    [
+    "agenda.md", [
         "architecture.md",
         "arch-image.md",
         "arch-api-image.md",
@@ -11,10 +10,22 @@
         "webapi.md",
         "models.md",
         "ef.md",
-    	"repo.md",
+        "repo.md",
         "controllers.md",
         "services.md",
         "ninject.md",
         "automapper.md"
-    ]
+    ],
+    [
+        "angular.md",
+        "mean.md",
+        "demo.md"
+    ],
+    [
+        "notes.md",
+        "problems.md",
+        "dev.md",
+        "future.md"
+    ],
+    "questions.md"
 ]
