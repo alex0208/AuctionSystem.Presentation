@@ -1,0 +1,20 @@
+[
+    "index.md",
+    "agenda.md",
+    [
+        "architecture.md",
+        "arch-image.md",
+        "arch-api-image.md",
+        "arch-ng-image.md"
+    ],
+    [
+        "webapi.md",
+        "models.md",
+        "ef.md",
+    	"repo.md",
+        "controllers.md",
+        "services.md",
+        "ninject.md",
+        "automapper.md"
+    ]
+]
