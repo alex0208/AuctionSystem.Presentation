@@ -2,7 +2,7 @@
 
 <br>
 
-- Architecture
-- Web Service
-- Client
-- Final notes
+- ### Architecture
+- ### Web Service
+- ### Clients
+- ### Final notes
